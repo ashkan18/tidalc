@@ -8,3 +8,7 @@ d1 $ n "0 1 0 [2 4] 2 4 1*2 3" # s "cpu"
 d1 $ sound "bd sd ~ cp"
 
 d1 $ every 2 ( fast 2 ) $ sound "bd sd ~ cp"
+
+
+-- ahang arabie
+d1 $ n "c c [[c c] [~ c]]/2 d" # sound "cpu"
